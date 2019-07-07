@@ -1,0 +1,22 @@
+{
+    "maqueen.aMotors.M1|block": "Мотор 1",
+    "maqueen.aMotors.M2|block": "Мотор 2",
+    "maqueen.Patrol.PatrolLeft|block": "Лево",
+    "maqueen.Patrol.PatrolRight|block": "Право",
+    "maqueen.LEDswitch.turnOn|block": "Вкл",
+    "maqueen.LEDswitch.turnOff|block": "Выкл",
+    "maqueen.LED.LEDLeft|block": "Д лев",
+    "maqueen.LED.LEDRight|block": "Д прав",
+    "maqueen.Dir.CW|block": "Вперед",
+    "maqueen.Dir.CCW|block": "Назад",
+    "maqueen.motorStop|block": "Стоп|%motors",
+    "maqueen.motorStopAll|block": "Стоп Все",
+    "maqueen.MotorRun|block": "Мотор|%index|Вращ|%Dir|Скор|%speed",
+    "maqueen.IR_callbackUser|block": "Выполнить",
+    "maqueen.sensor|block": "Датчик|%unit",
+    "maqueen.readPatrol|block": "Патрол|%patrol",
+    "maqueen.writeLED|block": "LED Запись|%led,|%ledswitch",
+    "maqueen.IR_read|block": "Упр читать",
+    "maqueen.ServoRun|block": "Серво|%index|Вращать|%angle",
+    "maqueen.IR_read_version|block": "IR версия"
+}
